@@ -1,0 +1,6 @@
+{
+  "name": "MB Babies",
+  "description": "Fun kids educational app with ABCs, Math, Science, Social Studies, word puzzles, dynamic coins, and curated YouTube kids video player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
